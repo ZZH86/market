@@ -1,0 +1,1 @@
+package org.ch.domain.yyy.service;
